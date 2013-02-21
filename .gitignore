@@ -1,0 +1,20 @@
+# Compiled source #
+###################
+*.exe
+*.o
+
+# Packages #
+############
+*.zip
+*.rar
+*.gz
+*.7z
+*.tar
+
+# Databases #
+#############
+*.sql
+
+# OS generated files #
+######################
+Thumbs.db
